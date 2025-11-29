@@ -10,3 +10,20 @@
 10. Stock span
 11. Min stack
 12. Sliding window max
+
+
+
+Assignment-2
+
+Topics:
+1. Min/Max Heap
+2. Heapify
+3. Insert/Delete
+4. Heap Sort
+5. PriorityQueue.
+
+Practice:
+6. K largest/smallest
+7. Top K frequent
+8. Connect ropes min cost
+9. Median in stream.
