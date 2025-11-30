@@ -17,8 +17,8 @@ Assignment-2
 
 Topics:
 1. Min/Max Heap
-2. Heapify
-3. Insert/Delete
+2. Heapify Insert
+3. Heapify Delete
 4. Heap Sort
 5. PriorityQueue.
 
